@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'Poppins Bold';
+    src: url("/Poppins-Bold.ttf");
+}
+
+@font-face {
+    font-family: 'Poppins Light';
+    src: url("/Poppins-Light.ttf");
+}
+
+@font-face {
+    font-family: 'Poppins Medium';
+    src: url("/Poppins-Medium.ttf");
+}
+
+body{
+    font-family: 'Poppins Medium';
+}
+a{
+    text-decoration: none;
+    color:dodgerblue
+}
+a:hover{
+    color: red;
+}
+b{
+    font-size: 29px;
+    font-family: 'Poppins Bold';
+}
+.dasi{
+    margin-left: 375px;
+    font-family: 'Poppins Light';
+    margin-bottom: 5px;
+    
+}
+p{
+    font-size: 11px;
+    margin: 2px 0 2px 0;
+    font-family: 'Poppins Light';
+
+}
+
+ol{
+    margin-left: 355px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+h1{
+    font-family: 'Poppins Bold';
+    margin: 6px 0;
+    padding: 3px 0;
+    line-height: 35px;
+}
+
+h2{
+    font-family: 'Poppins Light';
+    font-size: 20px;
+    line-height: 1.0;
+    margin-left: 375px;
+}
+pre{
+    margin-left: 375px;
+    font-family: 'Poppins Light';
+    font-size: 15px;
+}
+
+
+small{
+    color: gray;
+    font-size: 11px;
+}
